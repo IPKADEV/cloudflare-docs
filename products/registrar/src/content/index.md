@@ -4,7 +4,7 @@ order: 0
 pcx-content: landing-page
 ---
 
-# Cloudflare registrar documentation
+# Cloudflare registrar documentation (PUSSY)
 
 Cloudflare Registrar will only ever charge you what we pay to the registry for your domain. No markup. No surprise fees.
 
